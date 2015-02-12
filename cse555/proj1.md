@@ -46,4 +46,5 @@ What I decided to do at last is to synchronise them
 by normalizing them by their average value (or sum of values 
 since they are of the same size). An ``adequate'' (again) 
 Gaussian filter is then applied to the mask before applied to the picture.
-- The script can be viewed [here](fnf.m).
+- The script can be viewed [here](proj1/fnf.m).
+
