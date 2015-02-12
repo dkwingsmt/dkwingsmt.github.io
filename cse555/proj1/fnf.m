@@ -1,8 +1,8 @@
-%F = double(imread('carpet_00_flash.tif'));
-%NF = double(imread('carpet_01_noflash.tif'));
+F = double(imread('carpet_00_flash.tif'));
+NF = double(imread('carpet_01_noflash.tif'));
 
-F = double(imread('potsdetail_00_flash.tif'));
-NF = double(imread('potsdetail_01_noflash.tif'));
+%F = double(imread('potsdetail_00_flash.tif'));
+%NF = double(imread('potsdetail_01_noflash.tif'));
 
 F = F / max(F(:));
 NF = NF / max(NF(:));
