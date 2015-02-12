@@ -16,7 +16,7 @@ The first image, taken outside my apartment,
 focuses on a oneway sign on the pavement,
 as the buildings in the background seems to move away.
 
-![Southwood one-way](smaller.gif)
+![Southwood one-way](proj0/smaller.gif)
 
 The second image, taken in my apartment, 
 focuses on a pile of boxes on the windowsill, 
@@ -24,7 +24,7 @@ as the building outside the window seems to move away,
 as well as the chair, intentionally placed foreground, 
 seems to move closer.
 
-![Boxes on windowsill](smaller2.gif)
+![Boxes on windowsill](proj0/smaller2.gif)
 
 The full-resolution GIF images and the original pictures can be downloaded 
 [here](https://drive.google.com/open?id=0BzwupR4ck5R3Y1I1V0lNWkY5TE0&authuser=0);
